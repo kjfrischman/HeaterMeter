@@ -1,3 +1,5 @@
 (fp_lib_table
-  (lib (name HeaterMeterPI)(type KiCad)(uri "$(KIPRJMOD)/HeaterMeterPI.pretty")(options "")(descr ""))
+  (version 7)
+  (lib (name "HeaterMeterPI")(type "KiCad")(uri "$(KIPRJMOD)/HeaterMeterPI.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
 )
